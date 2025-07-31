@@ -18,7 +18,7 @@ Trained and evaluated:
 The system identifies the following tomato leaf conditions:
 - **Early Blight**
 - **Late Blight**
-- **Bacterial Rot**
+- **Bacterial Spot**
 - **Two-Spotted Spider Mite**
 - **Healthy Leaf**
 
